@@ -1,0 +1,13 @@
+Sale ID,Employee ID,Product,Sale Date,Amount,Customer,Region
+1,3,Software License,2023-01-15,50000,TechCorp,North
+2,7,Consulting,2023-01-20,75000,DataSoft,South
+3,3,Training,2023-02-05,25000,AI Solutions,East
+4,7,Support,2023-02-12,35000,CloudWorks,West
+5,3,Software License,2023-03-08,60000,StartupX,North
+6,7,Consulting,2023-03-15,80000,DevTools Inc,South
+7,3,Training,2023-04-02,30000,Analytics Pro,East
+8,7,Support,2023-04-18,40000,Code Masters,West
+9,3,Software License,2023-05-05,55000,Tech Innovators,North
+10,7,Consulting,2023-05-22,70000,Digital Solutions,South
+11,3,Training,2023-06-10,28000,Smart Systems,East
+12,7,Support,2023-06-25,38000,Future Tech,West
