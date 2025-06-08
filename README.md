@@ -132,14 +132,14 @@ AI: "John Smith works in the Engineering department."
 
 ```
 langchain-sql-assistant/
-├── langchain_streamlit_app.py                    # Main Streamlit interface
+├── langchain_streamlit_app.py          # Main Streamlit interface
 ├── langchain_sql_manager.py            # Core SQL processing engine
 ├── langchain_memory_system.py          # Conversation memory management
 ├── langchain_sql_chains.py             # SQL chain operations
 ├── csv_to_sqlite_converter.py          # CSV processing utilities
 ├── requirements.txt                    # Python dependencies
-├── .env                               # Environment configuration
-└── README.md                         # Documentation
+├── .env                                # Environment configuration
+└── README.md                           # Documentation
 ```
 
 ## Configuration
